@@ -27,7 +27,7 @@ displayName="Boiled Egg" #mandatory
 # A URL for the "homepage" for this mod, displayed in the mod UI
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-logoFile="boiled_egg.png" #optional
+logoFile="boiled_egg_logo.png" #optional
 # A text field displayed in the mod UI
 credits="Thanks to Kaupenjoe for teaching me everything I know about modding. Thanks to Jon for planting the seed." #optional
 # A text field displayed in the mod UI
